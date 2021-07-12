@@ -1,2 +1,2 @@
-# MeusProjetos
- Repositório dos meus projetos
+# Meus Projetos
+ Repositório destinado aos meus projetos pessoais.
